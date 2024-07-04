@@ -13,7 +13,7 @@
 
 - 📄 Checkout my online Portfolio: [https://AmalFrontEndDeveloper.github.io/portfolio/](https://AmalFrontEndDeveloper.github.io/portfolio/)
 
-- ⚡ Fun fact **I think I am Enthusiastic, Quick Learner, Mechanical Engineer, Tech Lover, Code for passion**
+- ⚡ Fun fact **I think I am Enthusiastic, Quick Learner, Tech Lover, Code for passion**
 
 <h3 align="left">🔗 Get in touch</h3>
 <p align="left">
